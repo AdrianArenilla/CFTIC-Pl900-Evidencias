@@ -137,13 +137,72 @@
 # Module 3: Get started with Power Apps
 	## Lab 3: How to build a model-driven app
 	
+![](Evidencias/04a-ModelDrivenApp.png)
 
+![](Evidencias/04b-ModelDrivenApp.png)
 
+![](Evidencias/04c-ModelDrivenApp.png)
+
+![](Evidencias/04d-ModelDrivenApp.png)
+
+![](Evidencias/04e-ModelDrivenApp.png)
+
+![](Evidencias/04f-ModelDrivenApp.png)
+
+![](Evidencias/04g-ModelDrivenApp.png)
+
+![](Evidencias/04h-ModelDrivenApp.png)
+
+![](Evidencias/04i-ModelDrivenApp.png)
+
+![](Evidencias/04j-ModelDrivenApp.png)
+
+![](Evidencias/04k-ModelDrivenApp.png)
+
+![](Evidencias/04l-ModelDrivenApp.png)
+
+![](Evidencias/04m-ModelDrivenApp.png)
 
 
 
 
 # Module 3: Get started with Power Apps
 	## Lab 4: How to build a Power Apps portal
+
+![](Evidencias/05a-PowerAppsPortal.png)
+
+![](Evidencias/05b-PowerAppsPortal.png)
+
+![](Evidencias/05c-PowerAppsPortal.png)
+
+![](Evidencias/05d-PowerAppsPortal.png)
+
+![](Evidencias/05e-PowerAppsPortal.png)
+
+![](Evidencias/05f-PowerAppsPortal.png)
+
+
+
+
+# Module 4: Get Started with Power Automate
+	## Lab: How to build an automated solution
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
