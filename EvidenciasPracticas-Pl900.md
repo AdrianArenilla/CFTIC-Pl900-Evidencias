@@ -187,22 +187,92 @@
 # Module 4: Get Started with Power Automate
 	## Lab: How to build an automated solution
 	
+![](Evidencias/06a-PowerAutomate.png)
+
+![](Evidencias/06b-PowerAutomate.png)
+
+![](Evidencias/06c-PowerAutomate.png)
+
+![](Evidencias/06d-PowerAutomate.png)
+
+![](Evidencias/06e-PowerAutomate.png)
+
+![](Evidencias/06f-PowerAutomate.png)
+
+![](Evidencias/06g-PowerAutomate.png)
+
+![](Evidencias/06h-PowerAutomate.png)
+
+![](Evidencias/06i-PowerAutomate.png)
+
+![](Evidencias/06j-PowerAutomate.png)
+
+![](Evidencias/06k-PowerAutomate.png)
 
 
 
 
+# Module 5: Get Started with Power BI
+	## Lab: How to build a simple dashboard
+
+![](Evidencias/07a-PowerBI.png)
+
+![](Evidencias/07b-PowerBI.png)
+
+![](Evidencias/07c-PowerBI.png)
+
+![](Evidencias/07d-PowerBI.png)
+
+![](Evidencias/07e-PowerBI.png)
+
+![](Evidencias/07f-PowerBI.png)
+
+![](Evidencias/07g-PowerBI.png)
+
+![](Evidencias/07h-PowerBI.png)
+
+![](Evidencias/07i-PowerBI.png)
+
+![](Evidencias/07j-PowerBI.png)
+
+![](Evidencias/07k-PowerBI.png)
+
+![](Evidencias/07l-PowerBI.png)
+
+![](Evidencias/07m-PowerBI.png)
+
+![](Evidencias/07n-PowerBI.png)
+
+![](Evidencias/07o-PowerBI.png)
+
+![](Evidencias/07p-PowerBI.png)
+
+![](Evidencias/07q-PowerBI.png)
+
+![](Evidencias/07r-PowerBI.png)
 
 
 
 
+# Module 6: Intro to Power Virtual Agents
+	## Lab: How to build a basic chatbot
 
+![](Evidencias/08a-PowerVirtualAgents.png)
 
+![](Evidencias/08b-PowerVirtualAgents.png)
 
+![](Evidencias/08c-PowerVirtualAgents.png)
 
+![](Evidencias/08d-PowerVirtualAgents.png)
 
+![](Evidencias/08e-PowerVirtualAgents.png)
 
+![](Evidencias/08f-PowerVirtualAgents.png)
 
+![](Evidencias/08g-PowerVirtualAgents.png)
 
+![](Evidencias/08h-PowerVirtualAgents.png)
 
+![](Evidencias/08i-PowerVirtualAgents.png)
 
-
+![](Evidencias/08j-PowerVirtualAgents.png)
